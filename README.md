@@ -10,7 +10,7 @@ A 12-week, 24-lesson curriculum all about JavaScript, CSS, and HTML basics
 
 |Project Name|Concepts Taught|Linked Lesson|Quizzes|Slides|Video|Author
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|JS Basics|Variables and Datatypes|[Variables and Datatypes](../js-basics/tree/js-basics/1_variables_datatypes/)||||Jasmine|
+|JS Basics|Variables and Datatypes|[Variables and Datatypes](../../js-basics/tree/js-basics/1_variables_datatypes/)||||Jasmine|
 |JS Basics|Making Decisions with JS|[Making Decisions](../js-basics/tree/js-basics/2_decisions/)||||Jasmine|
 |JS Basics|Arrays and Loops|[Arrays and Loops](../js-basics/tree/js-basics/3_arrays_loops/)||||Jasmine|
 |Terrarium|Introduction to HTML|[Introduction to HTML](../terrarium-project/tree/terrarium-project/intro-to-html)| ✅ ✅  ||   |Jen|
