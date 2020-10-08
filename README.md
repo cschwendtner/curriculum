@@ -1,4 +1,4 @@
-# Web Development 101 - A Curriculum
+# Web Development for Beginners - A Curriculum
 
 We are pleased to offer a 12-week, 24-lesson curriculum all about JavaScript, CSS, and HTML basics. Each lesson includes pre- and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment, slides for instructors and a video going over the lesson concepts.
 
