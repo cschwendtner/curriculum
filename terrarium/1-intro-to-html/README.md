@@ -1,7 +1,5 @@
 # Terrarium Project Part 2: Introduction to CSS
 
-![video](video-url)
-
 ![Introduction to CSS](images/webdev101-css.png)
 > Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
 

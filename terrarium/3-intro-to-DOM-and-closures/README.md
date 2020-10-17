@@ -1,7 +1,5 @@
 # Terrarium Project Part 3: DOM Manipulation and a Closure
 
-![video](video-url)
-
 ![DOM and a closure](images/webdev101-js.png)
 > Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
 
